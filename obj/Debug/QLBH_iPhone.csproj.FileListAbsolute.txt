@@ -1,0 +1,40 @@
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\ClosedXML.dll
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\ExcelNumberFormat.dll
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\FastMember.Signed.dll
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\ClosedXML.xml
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\ExcelNumberFormat.xml
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_iPhone.csproj.GenerateResource.cache
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.CustomerGUi.resources
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.HoaDon.resources
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.DNhap.resources
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.FormMenu.resources
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.SanPham.resources
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.Properties.Resources.resources
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\QLBH_XuanHa.exe.config
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\QLBH_XuanHa.exe
+C:\Users\THU BO\Desktop\XuanHa_C#\bin\Debug\QLBH_XuanHa.pdb
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.exe
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_XuanHa.pdb
+C:\Users\THU BO\Desktop\XuanHa_C#\obj\Debug\QLBH_iPhone.csprojResolveAssemblyReference.cache
+D:\XuanHa_C#\bin\Debug\QLBH_XuanHa.exe.config
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.exe
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.pdb
+D:\XuanHa_C#\bin\Debug\QLBH_XuanHa.exe
+D:\XuanHa_C#\bin\Debug\QLBH_XuanHa.pdb
+D:\XuanHa_C#\bin\Debug\ClosedXML.dll
+D:\XuanHa_C#\bin\Debug\DocumentFormat.OpenXml.dll
+D:\XuanHa_C#\bin\Debug\ExcelNumberFormat.dll
+D:\XuanHa_C#\bin\Debug\FastMember.Signed.dll
+D:\XuanHa_C#\bin\Debug\ClosedXML.xml
+D:\XuanHa_C#\bin\Debug\DocumentFormat.OpenXml.xml
+D:\XuanHa_C#\bin\Debug\ExcelNumberFormat.xml
+D:\XuanHa_C#\obj\Debug\QLBH_iPhone.csprojResolveAssemblyReference.cache
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.CustomerGUi.resources
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.HoaDon.resources
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.DNhap.resources
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.FormMenu.resources
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.GUII.SanPham.resources
+D:\XuanHa_C#\obj\Debug\QLBH_XuanHa.Properties.Resources.resources
+D:\XuanHa_C#\obj\Debug\QLBH_iPhone.csproj.GenerateResource.Cache
